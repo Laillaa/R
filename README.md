@@ -1,5 +1,6 @@
 # R projects
-University Projects:
-1. The use of democratic power by the Swiss population
+I. University Projects:
+  1. The use of democratic power by the Swiss population
 
-Personal Projects:
+
+II. Personal Projects
